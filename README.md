@@ -7,4 +7,3 @@ Hope you have a good time on this page!
 - 📫 How to reach me: arman_jasuja@yahoo.com
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love magic and speedcubing.
-- Languages: C, C++, Python, SQL

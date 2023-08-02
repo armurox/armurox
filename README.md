@@ -1,5 +1,3 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 I'm Arman:) I'm a Hopkins Mathematics graduate, with a passion for programming and finance. Here, you can find repositories of interesting problems that I'm working on, from competitive programming, to bigger projects, and even any mathematics conjectures I may find interesting.
 Hope you have a good time on this page!
@@ -27,10 +25,10 @@ Hope you have a good time on this page!
 </p>
 
 
-[//]: # (<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armurox&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>)
+</a>
 
-[//]: # (<a href="https://github.com/armurox/github-readme-stats">
+<a href="https://github.com/armurox/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=armurox&theme=radical" />
-</a>)
+</a>

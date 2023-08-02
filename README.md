@@ -8,7 +8,7 @@ Hope you have a good time on this page!
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love magic and speedcubing.
 
-![](https://visitor-badge.laobi.icu/badge?page_id=armurox.armurox)
+![profile-views](https://visitor-badge.laobi.icu/badge?page_id=armurox.armurox)
 
 ## 🧰 Languages and Tools:
 <p align="center">

@@ -1,3 +1,7 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
+
 ### Hi there 👋
 I'm Arman:) I'm a Hopkins Mathematics graduate, with a passion for programming and finance. Here, you can find repositories of interesting problems that I'm working on, from competitive programming, to bigger projects, and even any mathematics conjectures I may find interesting.
 Hope you have a good time on this page!
@@ -8,7 +12,7 @@ Hope you have a good time on this page!
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love magic and speedcubing.
 
-![](https://komarev.com/ghpvc/?armurox&color=green)
+![visitor](https://komarev.com/ghpvc/?armurox&color=green)
 
 ## 🧰 Languages and Tools:
 <p align="center">

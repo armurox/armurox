@@ -23,6 +23,7 @@ Hope you have a good time on this page!
   <img width=50px src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">&nbsp;
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armurox&count_private=true)
 <a href="https://github.com/armurox/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=armurox&theme=radical" />
 </a>

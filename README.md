@@ -21,7 +21,7 @@ Hope you have a good time on this page!
   <img width=50px src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
-  <img width=50px src = "https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg">&nbsp;
+  <img width=50px src = "[https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)">&nbsp;
 </p>
 
 <a href="https://github.com/armurox/github-readme-stats">

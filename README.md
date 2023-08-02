@@ -7,3 +7,5 @@ Hope you have a good time on this page!
 - 📫 How to reach me: arman_jasuja@yahoo.com
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love magic and speedcubing.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)

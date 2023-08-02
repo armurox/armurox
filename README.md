@@ -8,4 +8,4 @@ Hope you have a good time on this page!
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love magic and speedcubing.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=armurox)](https://github.com/armurox/github-readme-stats)

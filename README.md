@@ -1,5 +1,5 @@
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-I'm Arman:) I'm a Hopkins Mathematics graduate, with a passion for programming and finance. Here, you can find repositories of interesting problems that I'm working on, from competitive programming, to bigger projects, and even any mathematics conjectures I may find interesting.
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Arman:)
+I'm a Hopkins Mathematics graduate, with a passion for programming and finance. Here, you can find repositories of interesting problems that I'm working on, from competitive programming, to bigger projects, and even any mathematics conjectures I may find interesting.
 Hope you have a good time on this page!
 
 - 🔭 I’m currently working on a project to keep track of your financial portfolio and the Erdös-Gyárfás Conjecture

@@ -10,7 +10,7 @@ Hope you have a good time on this page!
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love magic and speedcubing.
 
-![GitHub Views](https://komarev.com/ghpvc/?username=armurox&color=FAC151)
+![GitHub Views](https://komarev.com/ghpvc/?username=armurox&color=green)
 
 
 ## 🧰 Languages and Tools:

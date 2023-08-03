@@ -5,7 +5,7 @@ Hope you have a good time on this page!
 - 🔭 I’m currently working on a project to keep track of your financial portfolio and the Erdös-Gyárfás Conjecture
 - 🌱 I’m currently learning Harvard's CS50!
 - 📫 How to reach me: arman_jasuja@yahoo.com
-- 😄 Pronouns: He / Her
+- 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love magic and speedcubing.
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=armurox&color=green)

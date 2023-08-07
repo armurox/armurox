@@ -16,7 +16,6 @@ Hope you have a good time on this page!
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;
   <img width=50px 
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
@@ -25,6 +24,7 @@ Hope you have a good time on this page!
   <img width=100px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg">&nbsp;
   <img width = 100px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg">&nbsp;
   <img width = 140px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;
 </p>
 
 

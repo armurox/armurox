@@ -23,7 +23,7 @@ Hope you have a good time on this page!
   <img width=50px src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">&nbsp;
   <img width=100px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg">&nbsp;
   <img width = 100px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg">&nbsp;
-  <img width = 100px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg">&nbsp;
+  <img width = 120px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg">&nbsp;
 </p>
 
 

@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="HAPvBNah0T3IZn8aNZAiTAHtgDR89NqsQFvJ3plTL98" />
 <h1 align = center>Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Arman:)</h1>
 I'm a Hopkins Mathematics graduate, with a passion for programming and finance. Here, you can find repositories of interesting problems that I'm working on, from competitive programming, to bigger projects, and even any mathematics conjectures I may find interesting.
 Hope you have a good time on this page!

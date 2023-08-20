@@ -4,7 +4,7 @@ I'm a Hopkins Mathematics graduate, with a passion for programming and finance. 
 Hope you have a good time on this page!
 
 - 🔭 I’m currently working on the Erdös-Gyárfás Conjecture and a financial trading simulation web application.
-- 🌱 I’m currently learning Harvard's CS50!
+- 🌱 I’m currently learning Harvard's CS50AI!
 - 📫 How to reach me: arman_jasuja@yahoo.com
 - Or connect with me on: <a href = "https://www.linkedin.com/in/arman-jasuja-b501a71a2/"><img align = "center" width = 20px height = 20px src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></a>
 - 😄 Pronouns: He / Him

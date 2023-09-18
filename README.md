@@ -1,6 +1,6 @@
 <meta name="google-site-verification" content="HAPvBNah0T3IZn8aNZAiTAHtgDR89NqsQFvJ3plTL98" />
 <h1 align = center>Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Arman:)</h1>
-I'm a Hopkins Mathematics graduate, with a passion for programming and finance. My proficiences include JavaScript, Python, C, C++, SQL (specifically sqlite) and experience with 2 JavaScript Frameworks (BOOTSTRAP and JQuery) and a Python Framework (Flask) for Web Development. Here, you can find repositories of interesting problems that I'm working on, from competitive programming, to bigger projects, and even any mathematics conjectures I may find interesting.
+I'm a Hopkins Mathematics graduate, with a passion for programming and finance. My proficiences include JavaScript, Python, C, C++, SQL (specifically SQLite) and experience with 2 JavaScript Frameworks (BOOTSTRAP and JQuery) and a Python Framework (Flask) for Web Development. Here, you can find repositories of interesting problems that I'm working on, from competitive programming, to bigger projects, and even any mathematics conjectures I may find interesting.
 Hope you have a good time on this page!
 
 - 🔭 I’m currently working on the Erdös-Gyárfás Conjecture and a financial trading simulation web application (for testing trading strategies).

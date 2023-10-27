@@ -30,6 +30,7 @@ Hope you have a good time on this page!
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;
   <img width = 60px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg">&nbsp;
   <img width = 60px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">&nbsp;
+  <img width = 60px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg">&nbsp;
 </p>
 
 

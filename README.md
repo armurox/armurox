@@ -9,7 +9,7 @@ Hope you have a good time on this page!
 - Or connect with me on: <a href = "https://www.linkedin.com/in/arman-jasuja-b501a71a2/"><img align = "center" width = 20px height = 20px src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></a>
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love magic and speedcubing.
-- Certifications (relevant courses completed): <a href = "https://certificates.cs50.io/393b6372-f03a-4553-a8de-fe695869f6d7.pdf?size=letter"> Harvard's CS50x</a>, <a href="https://certificates.cs50.io/f2c85303-cdd9-4371-91d5-145f6111a313.pdf?size=letter"> Harvard's CS50P</a> and <a href = "https://akunacapital.teachable.com/courses/837423/certificate">Akuna Capital's Options 101</a>
+- Certifications (relevant courses completed): <a href = "https://certificates.cs50.io/393b6372-f03a-4553-a8de-fe695869f6d7.pdf?size=letter"> Harvard's CS50x</a>, <a href="https://certificates.cs50.io/f2c85303-cdd9-4371-91d5-145f6111a313.pdf?size=letter"> Harvard's CS50P</a>, <a href = "https://certificates.cs50.io/c771bc2e-92b6-432b-b862-7503c8fdb56c.pdf?size=letter"> Harvard's CS50AI</a> and <a href = "https://akunacapital.teachable.com/courses/837423/certificate">Akuna Capital's Options 101</a>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=armurox&color=green)
 

@@ -4,7 +4,7 @@ I'm a Hopkins Mathematics graduate, and a self-taught programmer with a passion 
 Hope you have a good time on this page!
 
 - 🔭 I’m currently working on the Erdös-Gyárfás Conjecture and a web application that generates recipe's from a person's available ingredients.
-- 🌱 I’m currently learning Harvard's CS50W, and working through The Odin Project!
+- 🌱 I’m currently reading Crafting Interpreters by Robert Nystrom (outstanding book, highly recommend), and working through The Odin Project!
 - 📫 How to reach me: arman_jasuja@yahoo.com
 - Or connect with me on: <a href = "https://www.linkedin.com/in/arman-jasuja-b501a71a2/"><img align = "center" width = 20px height = 20px src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></a>
 - 😄 Pronouns: He / Him

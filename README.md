@@ -26,8 +26,8 @@ Hope you have a good time on this page!
   <img width=50px src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">&nbsp;
   <img width=100px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg">&nbsp;
   <img width = 100px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg">&nbsp;
-  <img width = 100px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">&nbsp;
-  <img width = 100px height = 50px src = "https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg">&nbsp;
+  <img width = 150px height = 75px src = "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">&nbsp;
+  <img width = 150px height = 75px src = "https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg">&nbsp;
   <img width = 140px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;
   <img width = 60px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg">&nbsp;

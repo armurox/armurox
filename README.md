@@ -31,7 +31,7 @@ Hope you have a good time on this page!
   <img width = 60px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">&nbsp;
   <img width = 70px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">&nbsp;
   <img width = 70px height = 50px src = "https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg">&nbsp;
-  <img width = 140px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">&nbsp;
+  <img width = 70px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">&nbsp;
 </p>
 
 

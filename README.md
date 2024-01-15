@@ -31,7 +31,7 @@ Hope you have a good time on this page!
   <img width = 100px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg">&nbsp;
   <img width = 70px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">&nbsp;
   <img width = 70px height = 50px src = "https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg">&nbsp;
-  <img width = 70px height = 70px src = "https://upload.wikimedia.org/wikipedia/commons/5/5e/Vercel_logo_black.svg">&nbsp;
+  <img width = 90px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/5/5e/Vercel_logo_black.svg">&nbsp;
   <img width = 60px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg">&nbsp;
   <img width = 60px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">&nbsp;
 </p>

@@ -38,7 +38,6 @@ Hope you have a good time on this page!
   <img width = 60px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">&nbsp;
 </p>
 
-
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armurox&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>

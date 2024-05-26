@@ -50,5 +50,3 @@ Hope you have a good time on this page!
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=armurox&theme=radical)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=armurox&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

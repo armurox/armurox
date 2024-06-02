@@ -34,7 +34,7 @@ Hope you have a good time on this page!
   <img width = 70px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">&nbsp;
   <img width = 100px height = 60px src = "https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg">&nbsp;
   <img width = 70px height = 50px src = "https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg">&nbsp;
-  <img width = 200px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg">&nbsp;
+  <img width = 210px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg">&nbsp;
   <img width = 90px height = 50px src = "https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg">&nbsp;
   <img width = 50px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg">&nbsp;
   <img width = 50px height = 40px src = "https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">&nbsp;

@@ -51,5 +51,4 @@ Hope you have a good time on this page!
 <a href="https://github.com/armurox/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=armurox&theme=radical" />
 </a>
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=armurox&theme=radical)](https://git.io/streak-stats)

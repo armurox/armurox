@@ -39,6 +39,8 @@ Hope you have a good time on this page!
   <img width = 90px height = 50px src = "https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg">&nbsp;
   <img width = 50px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg">&nbsp;
   <img width = 50px height = 40px src = "https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">&nbsp;
+  <img width = 50px height = 40px src = "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg">&nbsp;
+  <img width = 50px height = 40px src = "https://upload.wikimedia.org/wikipedia/commons/a/af/OpenResty_logo.png">&nbsp;
   <img width = 90px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/5/5e/Vercel_logo_black.svg">&nbsp;
   <img width = 60px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg">&nbsp;
   <img width = 60px height = 50px src = "https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">&nbsp;

@@ -4,7 +4,7 @@ I'm a Johns Hopkins Mathematics graduate, and a self-taught programmer with a pa
 Hope you have a good time on this page!
 
 - 🔭 I’m currently working on the Erdös-Gyárfás Conjecture and a version of the jlox interpeter.
-- 🌱 I’m currently reading the Structure and Interpretation Of Computer Programs By Gerald Jay Sussman and Harold Abelson (outstanding book, I highly recommend it), and working through The Odin Project!
+- 🌱 I’m currently reading the Structure and Interpretation Of Computer Programs By Gerald Jay Sussman and Harold Abelson (outstanding book, I highly recommend it), and working through Volume 1 of The Art Of Computer Programming by Donald E. Knuth!
 - 📫 How to reach me: arman_jasuja@yahoo.com
 - Or connect with me on: <a href = "https://www.linkedin.com/in/arman-jasuja-b501a71a2/"><img align = "center" width = 20px height = 20px src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></a>
 - 😄 Pronouns: He / Him

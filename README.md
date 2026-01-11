@@ -56,4 +56,4 @@ Hope you have a good time on this page!
   <img height=200 align="center" src="https://github-readme-stats-udvd.vercel.app/api?username=armurox&theme=radical" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=armurox&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ebon-zeta.vercel.app?user=armurox&theme=radical)](https://git.io/streak-stats)

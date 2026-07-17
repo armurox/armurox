@@ -51,7 +51,7 @@ Hope you have a good time on this page!
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=armurox&layout=compact&langs_count=8&card_width=320&theme=radical&exclude_repo=github-readme-streak-stats,github-readme-stats" />
 </a>
 
-<a href="https://github.com/armurox/github-readme-stats">
+<a href="https://github.com/armurox/github-readme-stats-extended">
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=armurox&theme=radical" />
 </a>
 

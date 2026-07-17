@@ -52,7 +52,7 @@ Hope you have a good time on this page!
 </a>
 
 <a href="https://github.com/armurox/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-udvd.vercel.app/api?username=armurox&theme=radical" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=armurox&theme=radical" />
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats-ebon-zeta.vercel.app?user=armurox&theme=radical)](https://git.io/streak-stats)

@@ -48,7 +48,7 @@ Hope you have a good time on this page!
 </p>
 
 <a href="https://github.com/stats-organization/github-stats-extended">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=armurox&layout=compact&langs_count=8&card_width=320&theme=radical&exclude_repo=github-readme-streak-stats,github-readme-stats" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=armurox&layout=compact&langs_count=8&card_width=640&theme=radical&exclude_repo=github-readme-streak-stats,github-readme-stats" />
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats-ebon-zeta.vercel.app?user=armurox&theme=radical)](https://git.io/streak-stats)
